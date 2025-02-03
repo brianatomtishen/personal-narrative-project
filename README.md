@@ -32,7 +32,10 @@ Record a short video of your story to display here on your README. You can do th
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[Screen recording 2025-02-02 3.36.21 PM.webm](https://github.com/user-attachments/assets/6425d691-523d-488b-b7d2-8bd542efd964)
+
+https://github.com/user-attachments/assets/aeb7a111-d40b-4d7a-b35e-9223285127fb
+
+
 
 ## Story Description
 
